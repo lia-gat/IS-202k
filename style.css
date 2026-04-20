@@ -1,0 +1,14 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    background-color: #f5f5f5;
+}
+ul {
+    background-color: #fff;
+    padding: 15px;
+    border-radius: 5px;
+}
+li {
+    color: #333;
+    margin: 8px 0;
+}
